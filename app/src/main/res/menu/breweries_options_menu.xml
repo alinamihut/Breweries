@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/display_favourites"
+        android:title="@string/display_favourites"/>
+
+    <item android:id="@+id/display_not_favourites"
+        android:title="@string/display_not_favourites"/>
+
+    <item android:id="@+id/display_all"
+        android:title="@string/display_all" />
+</menu>

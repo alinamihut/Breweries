@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Breweries</string>
+    <string name="city">City</string>
+    <string name="search">Search </string>
+    <string name="invalid_username">City name can not be empty!</string>
+    <string name="short_username">City name too short!</string>
+    <string name="login_successful">Login successful!</string>
+    <string name="invalid_credentials">Invalid city!</string>
+    <string name="sign_out">Sign out</string>
+    <string name="reset_list"> Reset List </string>
+    <string name="clear_list">Clear Favourites</string>
+    <string name="add_offer">Add offer</string>
+    <string name="remove_offer">Remove offer</string>
+    <string name="add_to_favourites">Add to favourites</string>
+    <string name="remove_from_favourites"> Remove from favourites</string>
+    <string name="chat_with_us">Chat with us</string>
+    <string name="chat_design_1">Chat design 1</string>
+    <string name="chat_design_2">Chat design 2</string>
+    <string name="both_designs">Both designs</string>
+    <string name="display_favourites">Display Favourites</string>
+    <string name="display_not_favourites">Display not favourites</string>
+    <string name="display_all">Display all</string>
+    <string name="see_breweries_with_the_same_type">See breweries with the same type</string>
+    <string name="delete_brewery_type">Delete brewery type</string>
+</resources>
